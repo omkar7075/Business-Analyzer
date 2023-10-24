@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+	<item android:icon="res/drawable-xxxhdpi/baseline_home_white_36.png" android:id="false" android:orderInCategory="100" android:title="Home" app:showAsAction="0x1" />
+	<item android:id="false" android:orderInCategory="100" android:title="Rate Us" />
+	<item android:id="false" android:orderInCategory="100" android:title="Share" />
+	<item android:id="false" android:orderInCategory="100" android:title="About" />
+	<item android:id="false" android:orderInCategory="100" android:title="Exit" />
+</menu>

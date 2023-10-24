@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:ads="http://schemas.android.com/apk/res-auto" android:id="false" android:background="resourceId:0x106000b" android:paddingLeft="0dp" android:paddingTop="0dp" android:paddingRight="0dp" android:paddingBottom="0dp" android:fitsSystemWindows="true" android:layout_width="-1" android:layout_height="-1">
+	<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+		<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="false" android:background="{2:2130903144}" android:fitsSystemWindows="true" android:layout_width="-1" android:layout_height="-2" android:minHeight="{2:2130903043}" app:popupTheme="resourceId:0x7f0e0135" app:theme="resourceId:0x7f0e0132" />
+		<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+			<FrameLayout android:id="false" android:layout_width="-1" android:layout_height="-1" />
+			<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="false" android:layout_width="-1" android:layout_height="-1">
+				<WebView android:id="false" android:layout_width="-1" android:layout_height="-1" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_alignParentStart="true" android:layout_alignParentEnd="true" />
+			</android.support.v4.widget.SwipeRefreshLayout>
+			<ProgressBar android:id="false" android:layout_width="-2" android:layout_height="-2" android:indeterminate="true" android:layout_centerInParent="true" />
+		</RelativeLayout>
+	</LinearLayout>
+	<ImageView android:id="false" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="18dp" android:src="res/drawable/splash.jpg" android:scaleType="1" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:contentDescription="" android:layout_alignParentEnd="true" />
+	<android.support.design.widget.NavigationView android:layout_gravity="0x800003" android:id="false" android:layout_width="-2" android:layout_height="-1" ads:headerLayout="res/layout/nav_header_main.xml" />
+</android.support.v4.widget.DrawerLayout>

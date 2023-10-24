@@ -1,0 +1,217 @@
+Summary for /storage/emulated/0/show-java/sources/com.goyal.website2apk/jar-files/0.jar
+Decompiled with CFR 0.0
+
+
+a.b.c.a.c
+----------------------------
+
+b(android.content.Context int )
+  Unable to fully structure code
+
+
+a.b.c.a.d
+----------------------------
+
+b(android.content.Context android.content.res.Resources android.content.res.Resources$Theme org.xmlpull.v1.XmlPullParser android.util.AttributeSet android.animation.AnimatorSet int float )
+  Unable to fully structure code
+k(android.content.Context android.content.res.Resources android.content.res.Resources$Theme int float )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[CATCHBLOCK]], but top level block is 1[TRYBLOCK]
+
+
+a.b.d.a.c
+----------------------------
+
+p(java.util.ArrayList<a.b.d.a.h> a.b.d.a.h )
+  Unable to fully structure code
+
+
+a.b.d.a.h
+----------------------------
+
+U0(int a.b.d.a.h )
+  Exception : java.lang.IllegalStateException: Invisible function parameters on a non-constructor (or reads of uninitialised local variables).
+
+
+a.b.d.a.n
+----------------------------
+
+e1(java.lang.RuntimeException )
+  Unable to fully structure code
+g0(java.util.ArrayList<a.b.d.a.c> java.util.ArrayList<java.lang.Boolean> )
+  Unable to fully structure code
+F0(a.b.d.a.h int int int boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl443 : NEW : trying to set 1 previously set to 0
+a(java.lang.String java.io.FileDescriptor java.io.PrintWriter java.lang.String[] )
+  Loose catch block
+u0(a.b.d.a.h int boolean int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl72 : ILOAD : trying to set 1 previously set to 0
+
+
+a.b.d.a.s
+----------------------------
+
+g(a.b.d.a.c a.b.d.a.c$a android.util.SparseArray<a.b.d.a.s$e> boolean boolean )
+  Unable to fully structure code
+
+
+a.b.d.a.v
+----------------------------
+
+b()
+  Unable to fully structure code
+
+
+a.b.d.c.b
+----------------------------
+
+g(java.lang.String int a.b.d.c.b$a )
+  Unable to fully structure code
+a(android.graphics.Path float[] char char float[] )
+  Unable to fully structure code
+
+
+a.b.d.c.g
+----------------------------
+
+c(android.content.Context android.os.CancellationSignal a.b.d.g.b$f[] int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl44 : ALOAD : trying to set 1 previously set to 0
+
+
+a.b.d.c.d
+----------------------------
+
+h(android.os.ParcelFileDescriptor )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl30.1 : ACONST_NULL : trying to set 1 previously set to 0
+c(android.content.Context android.os.CancellationSignal a.b.d.g.b$f[] int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl77.3 : FAKE_TRY : trying to set 0 previously set to 1
+
+
+a.b.d.c.f
+----------------------------
+
+c(android.content.Context android.os.CancellationSignal a.b.d.g.b$f[] int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl50.3 : FAKE_TRY : trying to set 0 previously set to 1
+
+
+a.b.d.c.h
+----------------------------
+
+a(java.io.Closeable )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Underrun type stack
+c(java.io.File android.content.res.Resources int )
+  Loose catch block
+d(java.io.File java.io.InputStream )
+  Unable to fully structure code
+e(android.content.Context )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl62.1 : IINC : trying to set 1 previously set to 0
+f(android.content.Context android.os.CancellationSignal android.net.Uri )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl53.3 : FAKE_TRY : trying to set 0 previously set to 1
+g(java.io.File )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 3 blocks at once
+
+
+a.b.d.g.b
+----------------------------
+
+i(android.content.Context a.b.d.g.a java.lang.String android.os.CancellationSignal )
+  Loose catch block
+j(android.content.Context a.b.d.g.a int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl16.1 : ACONST_NULL : trying to set 1 previously set to 0
+b(android.graphics.Typeface )
+  Loose catch block
+
+
+a.b.d.g.c
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl8 : ALOAD_0 : trying to set 1 previously set to 0
+g(java.util.concurrent.Callable<T> int )
+  Unable to fully structure code
+
+
+a.b.d.h.h
+----------------------------
+
+k(java.util.Set<T> java.lang.Object )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl27.1 : ICONST_0 : trying to set 0 previously set to 1
+
+
+a.b.d.h.p
+----------------------------
+
+equals(java.lang.Object )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl114.1 : ICONST_0 : trying to set 0 previously set to 1
+
+
+a.b.d.h.b
+----------------------------
+
+equals(java.lang.Object )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl39.1 : ICONST_0 : trying to set 0 previously set to 1
+
+
+a.b.d.h.f
+----------------------------
+
+b()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl25 : ALOAD_1 : trying to set 0 previously set to 1
+
+
+a.b.d.h.g
+----------------------------
+
+g(int )
+  Unable to fully structure code
+
+
+a.b.d.h.q
+----------------------------
+
+c()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl25 : ALOAD_1 : trying to set 0 previously set to 1
+
+
+a.b.d.i.p
+----------------------------
+
+k(android.view.View )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl28.1 : ICONST_0 : trying to set 0 previously set to 1
+l(android.view.View )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl28.1 : ICONST_0 : trying to set 0 previously set to 1
+
+
+a.b.d.i.q
+----------------------------
+
+<clinit>()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl15 : RETURN : trying to set 0 previously set to 1
+a(android.view.ViewConfiguration android.content.Context )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl23 : NEW : trying to set 0 previously set to 1
+
+
+a.b.e.e.g
+----------------------------
+
+inflate(int android.view.Menu )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[CATCHBLOCK]], but top level block is 1[TRYBLOCK]
+
+
+com.goyal.website2apk.MainActivity
+----------------------------
+
+a0()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl34 : ALOAD_1 : trying to set 0 previously set to 1
+e(android.view.MenuItem )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl34 : FAKE_TRY : trying to set 1 previously set to 0
+onActivityResult(int int android.content.Intent )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl103 : ALOAD_0 : trying to set 1 previously set to 0
+onCreate(android.os.Bundle )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl266 : ALOAD_0 : trying to set 1 previously set to 0
+
+
+com.goyal.website2apk.a
+----------------------------
+
+a(java.lang.String )
+  Unable to fully structure code

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:theme="resourceId:0x7f0e0131" android:gravity="0x50" android:orientation="1" android:id="false" android:background="ae52d4" android:padding="16dp" android:focusable="true" android:clickable="true" android:layout_width="-1" android:layout_height="160dp" android:foreground="{2:2130903449}">
+	<ImageView android:id="false" android:layout_width="64dp" android:layout_height="64dp" android:src="res/drawable/ic_launcher.png" />
+	<TextView android:textAppearance="resourceId:0x7f0e00c7" android:id="false" android:paddingTop="16dp" android:layout_width="-1" android:layout_height="-2" android:text="Bussiness Analyzer" />
+</LinearLayout>

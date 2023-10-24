@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" package="com.goyal.website2apk" platformBuildVersionCode="23" platformBuildVersionName="6.0-2438415">
+	<uses-sdk android:minSdkVersion="17" android:targetSdkVersion="30" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.CAMERA" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.RECORD_AUDIO" />
+	<uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+	<uses-permission android:name="android.permission.VIBRATE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<application android:theme="resourceId:0x7f0e00a9" android:label="Bussiness Analyzer" android:icon="res/drawable/ic_launcher.png" android:allowBackup="true" android:fullBackupContent="true" android:usesCleartextTraffic="true">
+		<activity android:label="Bussiness Analyzer" android:name="com.goyal.website2apk.MainActivity" android:screenOrientation="user" android:configChanges="0x4a0" android:windowSoftInputMode="0x10" android:hardwareAccelerated="true">
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<category android:name="android.intent.category.BROWSABLE" />
+				<data android:scheme="https" android:host="null" android:pathPrefix="/" />
+			</intent-filter>
+		</activity>
+		<meta-data android:name="android.support.VERSION" android:value="26.1.0" />
+		<meta-data android:name="android.arch.lifecycle.VERSION" android:value="27.0.0-SNAPSHOT" />
+	</application>
+</manifest>
